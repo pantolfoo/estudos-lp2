@@ -11,7 +11,7 @@ public class e1008 {
         double s = ht*vh;
 
         System.out.println("NUMBER = "+n);
-        System.out.printf("SALARY = U$ %.2f", s);    
+        System.out.printf("SALARY = U$ %.2f\n", s);    
         scan.close();
     }
 }
