@@ -5,3 +5,5 @@ Este repositório tem como objetivo, armazenar e controlar os códigos da discip
 ## Aulas 
 - Aula 01 - introdução ao beecrowd <br>
   https://judge.beecrowd.com/pt
+  <br> <br>
+- Aula 02 - exercícios do beecrowd
