@@ -14,6 +14,6 @@ public class e1019 {
         int M = N / 60;
         int S = N % 60;
 
-        System.out.printf("%d:%d:%d%n  \n", H, M, S);
+        System.out.printf("%d:%d:%d%n", H, M, S);
     }
 }
